@@ -1,13 +1,14 @@
 //Kaila Piscitelli
 //September 22nd 2018
 //CMSC 226
+//I collaborated with Alex Hamme on this assignment 
 //yes part II
 
 #include <stdio.h>
 #include <string.h>
 #include <fcntl.h>
 #include <unistd.h>
-#define BUFF_SIZE 65536
+#define BUFF_SIZE 15360
 
 int main(int argc, char *argv[]){
 
